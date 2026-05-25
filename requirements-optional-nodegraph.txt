@@ -1,0 +1,12 @@
+# Graphe pipeline « type éditeur de nœuds » (optionnel).
+# Installation : pip install -r requirements-optional-nodegraph.txt
+#
+# NodeGraphQt : cadre Qt documenté, courbes / ports, zoom — proche de l’esprit
+#   https://github.com/jchanvfx/NodeGraphQt
+# Alternatives (non intégrées ici) :
+#   https://github.com/bhowiebkr/python-node-editor (PySide, blocs Python)
+#   https://github.com/IndieSmiths/nodezator (éditeur généraliste pygame/SDL)
+#
+# Plages : compatibilité avec plusieurs environnements ; pip choisit des versions cohérentes.
+NodeGraphQt>=0.6.40,<0.7
+PySide6>=6.5.0,<7

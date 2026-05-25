@@ -1,0 +1,11 @@
+# Plages de versions : rétrocompatibilité élargie tout en évitant les sauts majeurs cassants.
+# Reproductibilité stricte : après install, faire `pip freeze > requirements-lock.txt` et versionner ce fichier.
+#
+# Python : 3.10+ recommandé (3.9 possible si pip résout encore numpy/scipy).
+# Pillow >= 9.1 : nécessaire pour `Image.Resampling` (effets/, ui/).
+Pillow>=9.1.0,<13
+numpy>=1.26.0,<3
+scipy>=1.11.0,<2
+click>=8.1.0,<9
+pytest>=8.0.0,<9
+reportlab>=4.0.0,<5
