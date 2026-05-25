@@ -8,6 +8,18 @@ Le résultat est une texture visuelle de style Forerunner, proche de celles de l
 
 L'architecture forerunner inspire une grande partie des assets de la licence. Après de nombreuses années à modder Halo, l'auteur a identifié les techniques couramment utilisées pour obtenir ce style ; plutôt qu'un long tutoriel, ce dépôt propose un logiciel qui encadre et automatise ce pipeline.
 
+![Aperçu de l'application](images/interface.png)
+
+<h2>🎥 Démonstration</h2>
+
+<a href="https://www.youtube.com/watch?v=QzwhTnUbOB0" target="_blank">
+  <img src="https://img.youtube.com/vi/QzwhTnUbOB0/maxresdefault.jpg"
+       alt="Démonstration pv-scanner"
+       width="600">
+</a>
+
+*Cliquez sur l’image pour visionner la vidéo de démonstration sur YouTube.*
+
 
 Fenêtre principale (Texture Halo — Générateur de Textures Forerunner) :
 panneau des paramètres par étage (surfaces, blanchiment / glow, grain, creux / ombres) et prévisualisation avec zoom.
