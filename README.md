@@ -24,12 +24,10 @@ Fenêtre principale (Texture Halo — Générateur de Textures Forerunner) :
 
 
 Démonstration :
-<a href="https://www.youtube.com/watch?v=i5_7su3WvOY" target="_blank">
-  <img src="https://img.youtube.com/vi/i5_7su3WvOY/maxresdefault.jpg"
-       alt="Démonstration FTG"
-       width="600">
-</a>
-*Cliquez sur l’image pour visionner la vidéo de démonstration sur YouTube.*
+
+[![Démonstration Forerunner Texture Generator](https://img.youtube.com/vi/i5_7su3WvOY/hqdefault.jpg)](https://www.youtube.com/watch?v=i5_7su3WvOY)
+
+*Cliquez sur l’image pour visionner la vidéo sur YouTube.*
 
 
 
