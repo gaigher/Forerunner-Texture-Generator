@@ -1,12 +1,15 @@
 Forerunner Texture Generator
 ============================
 
-Forerunner Texture Generator est une application de bureau :
-elle utilise deux images d'entrée — une image de lignes de construction, qui sert de support aux calculs des effets (ombre, blanchiment, grain), et une image de métal, sur laquelle les effets sont appliqués pour produire le rendu final.
+L'architecture forerunner inspire une grande partie des assets de la licence. Après de nombreuses années à modder Halo, l'auteur a identifié les techniques couramment utilisées pour obtenir ce style ; plutôt qu'un long tutoriel, ce dépôt propose un logiciel qui encadre et automatise ce pipeline.
+
+Cette application de bureau utilise deux images d'entrée :
+- Une image de lignes de construction, qui sert de support aux calculs des effets (ombre, blanchiment, grain).
 Les lignes de construction peuvent être tracées dans l'éditeur intégré ou importées depuis un fichier.
+- Une image de métal, sur laquelle les effets sont appliqués pour produire le rendu final.
 Le résultat est une texture visuelle de style Forerunner, proche de celles de la série Halo.
 
-L'architecture forerunner inspire une grande partie des assets de la licence. Après de nombreuses années à modder Halo, l'auteur a identifié les techniques couramment utilisées pour obtenir ce style ; plutôt qu'un long tutoriel, ce dépôt propose un logiciel qui encadre et automatise ce pipeline.
+
 
 Fenêtre principale (Texture Halo — Générateur de Textures Forerunner) :
 
@@ -21,6 +24,7 @@ Fenêtre principale (Texture Halo — Générateur de Textures Forerunner) :
 ![Aperçu de l'application](images/interface-editeur-construction.jpg)
 
 *Dessin des formes de base (outils crayon, ligne, rectangles, remplissage, etc.), mode carrelable pour textures sans couture, choix d'étage / niveau de gris.*
+
 
 
 Démonstration :
