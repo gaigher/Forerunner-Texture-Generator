@@ -36,12 +36,26 @@ Démonstration :
 
 
 --------------------------------------------------------------------------------
+TÉLÉCHARGEMENT (Windows)
+--------------------------------------------------------------------------------
+
+Archive portable (ZIP) :
+
+  https://github.com/gaigher/Forerunner-Texture-Generator/releases/download/FTG/ForerunnerTextureGenerator-win64.zip
+
+Page Releases du projet :
+
+  https://github.com/gaigher/Forerunner-Texture-Generator/releases
+
+
+
+--------------------------------------------------------------------------------
 UTILISATION (Windows)
 --------------------------------------------------------------------------------
 
-1. Téléchargez l'archive ZIP du programme (page Releases du projet, quand elle sera disponible).
-2. Décompressez le dossier complet sur votre disque.
-3. Double-cliquez sur ForerunnerTextureGenerator.exe (ne déplacez pas l'exe sans le dossier qui l'accompagne).
+1. Téléchargez **ForerunnerTextureGenerator-win64.zip** (lien ci-dessus).
+2. Décompressez le dossier **FTG** complet sur votre disque.
+3. Double-cliquez sur **ForerunnerTextureGenerator.exe** dans ce dossier (ne déplacez pas l'exe sans les fichiers qui l'accompagnent).
 4. Dans l'application :
    - chargez ou dessinez vos lignes de construction ;
    - chargez votre image de métal ;
